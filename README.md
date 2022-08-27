@@ -1,12 +1,5 @@
-Team Members:
-```Devikalyan Das, 7007352```
-```Rushan Mukherjee, 7015520```
-
 Downloadable Link code with weights:
 [Google Drive Link](https://drive.google.com/file/d/1p9LrR63veg5FHNMHdnFyruXtASJ3PR8d/view?usp=sharing)
-
-md5sum:
-```f5fc4f610060481c5fa982255caa94ce```
 
 This project was carried out for the course Neural Networks:Theory and Implementation 2021/22. <br/>
 The goal of this project is to explore different methods of Semi-Supervised Learning (SSL) in order to improve model performance by leveraging information not only from labelled data but also from unlabelled data. This work has been divided into three tasks:<br/>
